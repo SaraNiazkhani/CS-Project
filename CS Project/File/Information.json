@@ -1,0 +1,49 @@
+[
+  {
+    "FirstName": "sara",
+    "LastName": "Niaz",
+    "Cellphone": "09120437883",
+    "NationalCode": "0025299395",
+    "Gender": "Female",
+    "UserId": "271287",
+    "IsAdmin": "false"
+
+
+  },
+  {
+    "FirstName": "Maryam",
+    "LastName": "khani",
+    "Cellphone": "09120485566",
+    "NationalCode": "0025225395",
+    "Gender": "Female",
+    "IsAdmin": "true",
+    "AccessId": "26598",
+    "RoleName": "Manager"
+
+  },
+  {
+    "FirstName": "Nima",
+    "LastName": "Nori",
+    "Cellphone": "09122079636",
+    "NationalCode": "0015399395",
+    "Gender": "Male",
+    "UserId": "223481",
+      "IsAdmin": "false"
+
+  },
+  {
+    "FirstName": "Mahan",
+    "LastName": "khosravi",
+    "Cellphone": "09902043696",
+    "NationalCode": "0054788698",
+    "Gender": "MAle",
+    "IsAdmin": "true",
+    "AccessId": "26589",
+    "RoleName": "Director"
+
+
+  }
+
+]
+
+
